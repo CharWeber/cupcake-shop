@@ -2,3 +2,13 @@
   color: red;
   font-style: italic;
 }
+
+.best {
+  font-style: bold;
+  font-size: 100px;
+  color:rgb(77, 23, 128);
+}
+img {
+  width: 200px;
+  height:auto;
+}
