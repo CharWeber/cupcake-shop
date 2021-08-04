@@ -8,7 +8,11 @@
   font-size: 100px;
   color:rgb(77, 23, 128);
 }
-img {
+img.small {
   width: 200px;
   height:auto;
+}
+img.big {
+  width:500px;
+  height:auto
 }
